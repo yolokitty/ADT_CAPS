@@ -1,0 +1,5 @@
+../Core/Src/main.c:81:5:main	1
+../Core/Src/main.c:134:6:SystemClock_Config	3
+../Core/Src/main.c:196:6:HAL_UARTEx_RxEventCallback	3
+../Core/Src/main.c:218:6:HAL_UART_ErrorCallback	3
+../Core/Src/main.c:232:6:Error_Handler	1
