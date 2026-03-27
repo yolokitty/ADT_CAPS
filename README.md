@@ -1,3 +1,7 @@
+### 📘 프로젝트 상세 설명
+
+&nbsp;&nbsp;&nbsp;[![Notion](https://img.shields.io/badge/Notion-설명%20바로가기-black?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/ADT-32645465d271807bafabee3db3bfa622)
+
 • **무인 택배 감지 장치**
 
 택배 기사가 택배를 배송하면, 카메라가 해당 택배를 인식하여 수령인/집주인에게 알람이 가고, 현재 몇 개의 택배가 와 있는지 확인 할 수 있다. 만약 한 개 이상의 택배물이 정상적인 방법으로 가져가지 않았다면 이를 수령인/집주인에게 연락이 가게 만들어 범죄 발 생 시간 및 범인 파악이 가능하게 한다.
